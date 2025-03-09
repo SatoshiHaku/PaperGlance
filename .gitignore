@@ -1,10 +1,13 @@
 # python
+.DS_Store
 
 ## User config
 .env
 
 ## jupyter notebooks
-notebooks/data/
+data/
+notebooks/*.pdf
+output/
 
 
 
