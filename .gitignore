@@ -75,3 +75,4 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 .xcconfig
+PaperGlance/PaperGlance/Config.xcconfig
